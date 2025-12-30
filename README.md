@@ -150,11 +150,3 @@ Guidelines:
 * WhisperExampleMicrophone: Translate an audio source to text.
 
 ![Example 2](images/image_2.png)
-
-* WhisperExampleAudioClip: Translate an audio clip to text.
-
-![Example 1](images/image_1.png)
-
-* WhisperExampleMicrophone: Translate an audio source to text.
-
-![Example 2](images/image_2.png)
