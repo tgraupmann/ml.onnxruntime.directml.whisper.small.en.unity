@@ -49,7 +49,7 @@ This is a Windows x64 package that embeds the OpenAI Whisper small English model
 - On unsupported platforms, `Decode` return an empty string.
 
 ## Tech stack
-- **Model:** OpenAI Whisper (small.en) converted to ONNX.
+- **Model:** OpenAI Whisper (small.en) converted to ONNX. See [available models](https://github.com/openai/whisper/tree/main?tab=readme-ov-file#available-models-and-languages).
 - **Runtime:** ONNX Runtime with DirectML execution provider (Windows x64).
 - **Unity:** TextMeshPro + UGUI for UI bindings; Unity `Microphone` API for input.
 
